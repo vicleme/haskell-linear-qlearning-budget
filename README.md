@@ -11,7 +11,7 @@ Linear Q-Learning in Haskell: an agent that learns to allocate a budget across d
 Final project for **Paradigms and Emerging Technologies in Data Science** (topic 2.1, Linear Q-Learning), Data Science program at Fatec Baixada Santista.
 
 - **Professor:** Felipe Cannarozzo
-- **Team:** Victor Leme, Adam Stader, Lucas Laus, Guilherme Franco
+- **Team:** Adam Stader, Guilherme Franco, Lucas Laus e Victor Leme
 
 ### Idea
 
@@ -57,7 +57,7 @@ Linear Q-Learning em Haskell: um agente que aprende a distribuir um orçamento e
 Projeto final da disciplina **Paradigmas e Tecnologias Emergentes em Ciência de Dados** (tema 2.1, Linear Q-Learning), curso de Ciência de Dados da Fatec Baixada Santista.
 
 - **Professor:** Felipe Cannarozzo
-- **Equipe:** Victor Leme, Adam Stader, Lucas Laus, Guilherme Franco
+- **Equipe:** Adam Stader, Guilherme Franco, Lucas Laus e Victor Leme
 
 ### Ideia
 
