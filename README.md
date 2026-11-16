@@ -1,4 +1,4 @@
-# linear-q-budget-allocation
+# haskell-linear-qlearning-budget
 
 [English](#english) | [Português](#português)
 
@@ -6,9 +6,12 @@
 
 ## English
 
-Linear Q-Learning in Haskell: an agent that learns to allocate a budget across departments.
+Linear Q-Learning in Haskell: an agent that learns to allocate a budget across departments (FP&A).
 
-Project for the Reinforcement Learning and AI assignment (topic 2.1, Linear Q-Learning), applied to budget optimization (FP&A).
+Final project for **Paradigms and Emerging Technologies in Data Science** (topic 2.1, Linear Q-Learning), Data Science program at Fatec Baixada Santista.
+
+- **Professor:** Felipe Cannarozzo
+- **Team:** Victor Leme, Adam Stader, Lucas Laus, Guilherme Franco
 
 ### Idea
 
@@ -49,9 +52,12 @@ Work in progress. The modules contain only the initial types.
 
 ## Português
 
-Linear Q-Learning em Haskell: um agente que aprende a distribuir um orçamento entre departamentos.
+Linear Q-Learning em Haskell: um agente que aprende a distribuir um orçamento entre departamentos (FP&A).
 
-Projeto da atividade de Aprendizado por Reforço e IA (tema 2.1, Linear Q-Learning), aplicado à otimização orçamentária (FP&A).
+Projeto final da disciplina **Paradigmas e Tecnologias Emergentes em Ciência de Dados** (tema 2.1, Linear Q-Learning), curso de Ciência de Dados da Fatec Baixada Santista.
+
+- **Professor:** Felipe Cannarozzo
+- **Equipe:** Victor Leme, Adam Stader, Lucas Laus, Guilherme Franco
 
 ### Ideia
 
